@@ -7,7 +7,7 @@
 	"name": "llm-chat-app-template",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-10-08",
-	"compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+	"compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public","python_workers"],
 	"assets": {
 		"binding": "ASSETS",
 		"directory": "./public"
