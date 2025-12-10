@@ -1,7 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "hello-python",
-	"main": "src/entry.py",
+"name": "llm-chat-app-template",	"main": "src/entry.py",
 	"compatibility_date": "2025-11-02",
 	"compatibility_flags": [
 		"python_workers"
